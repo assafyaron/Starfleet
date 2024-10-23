@@ -2,12 +2,12 @@ This is a university assignment to implement a program to manage a fleet of spac
 
 Refer to [inheritance scheme](https://github.com/user-attachments/files/17115224/Inheritance.scheme.pdf) in order to understand OOP relations between all classes and interfaces.
 
-*Interfaces*: CrewMember, Spaceship, Comparable
+**Interfaces**: CrewMember, Spaceship, Comparable
 
-*Abstract classes*: myAbstractCrewMember, myAbstractSpaceship, myAbstractBattleship
+**Abstract classes**: myAbstractCrewMember, myAbstractSpaceship, myAbstractBattleship
 
-*Classes*: Cylon, CrewWoman, Officer, Weapon, TransportShip, Fighter, StealthCruiser, ColonialViper, CylonRaider, Bomber
+**Classes**: Cylon, CrewWoman, Officer, Weapon, TransportShip, Fighter, StealthCruiser, ColonialViper, CylonRaider, Bomber
 
-*Enum*: OfficerRank
+**Enum**: OfficerRank
 
 Assaf Yaron, June 2023
